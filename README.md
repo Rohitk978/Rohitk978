@@ -5,7 +5,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Harsh-Codes-382)](https://github.com/ryo-ma/github-profile-trophy) 
 
-- 🌱 I’m currently learning **MERN stack and few others technologies**
+- 🌱 I’m currently learning **AI / ML and few others technologies**
 
 - 📫 How to reach me **rohitkohli97834@gmail.com**
 
