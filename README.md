@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">As an aspiring candidate in the fields of data analysis, data science, and machine learning/AI engineering, I am passionate about collecting, processing, and analyzing complex data sets to uncover insights and drive strategic decision-making. I have a good and well-rounded understanding of all these domains, and I am eager to leverage advanced statistical techniques and machine learning algorithms to build predictive models and intelligent systems. With a strong foundation in programming, data visualization, and AI technologies, I am committed to designing and implementing innovative solutions that optimize performance and foster data-driven innovation.</h3>
+<h3 align="center">I’m passionate about solving real-world problems through Data Science, Machine Learning, Deep Learning, and AI. My work focuses on building intelligent applications that combine data-driven insights with state-of-the-art transformer models and NLP techniques.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitk978&label=Profile%20views&color=0e75b6&style=flat" alt="rohitk978" /> </p>
 
