@@ -62,31 +62,42 @@ epoch 003  loss: decreasing   status: still training ...
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+**Languages & Databases**
 
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-<img src="https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Groq%20API-000000?style=flat-square" alt="Groq API" />
-<img src="https://img.shields.io/badge/XGBoost-000000?style=flat-square" alt="XGBoost" />
-<img src="https://img.shields.io/badge/CatBoost-000000?style=flat-square" alt="CatBoost" />
-<img src="https://img.shields.io/badge/LightGBM-000000?style=flat-square" alt="LightGBM" />
-<img src="https://img.shields.io/badge/NLTK-000000?style=flat-square" alt="NLTK" />
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
-<img src="https://img.shields.io/badge/PySpark-000000?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+**Machine Learning & Deep Learning**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/XGBoost-2C7BB6?style=for-the-badge" alt="XGBoost" />
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" alt="CatBoost" />
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge" alt="LightGBM" />
+
+**Data Science & Analytics**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+**NLP, LLMs & Agentic AI**
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge" alt="Groq API" />
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" alt="NLTK" />
+
+**Backend & Tools**
+
+<img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
